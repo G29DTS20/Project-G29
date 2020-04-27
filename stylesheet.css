@@ -94,10 +94,6 @@ to {top: 50px;}
   opacity: 1;
 }
 
-.fa {
-  margin-right: 5px;
-}
-
 header {
   height: 65px;
   width: 100%;
@@ -135,13 +131,11 @@ header {
   background-color: rgba(255, 255, 255, 0.3);
 }
 
-/* Tambahkan CSS untuk menu-icon */
 .menu-icon {
   color: white;
   float: right;
   font-size: 25px;
   padding: 21px 0;
-  /* Gantikan property display ke none */
   display:none;
 }
 
