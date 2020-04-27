@@ -28,19 +28,22 @@
       width: 100%;
     }
     
+    .facebook {
+      margin-bottom: 10px;
+    }
     
     .top-wrapper {
-      text-align: center;
+      text-align: left;
     }
     
     /* Tambahkan CSS untuk header-right */
     .header-right{
-      display:inline-table;
+      display:none;
     }
     
     /* Tambahkan CSS untuk menu-icon */
     .menu-icon{
-      display:inline-table;
+      display:block;
     }
     
     .top-wrapper h1 {
