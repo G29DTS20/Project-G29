@@ -33,7 +33,9 @@ a {
   padding: 0 15px;
   margin: 0 auto;
 }
-
+.container h2{
+  color: white;
+}
 .top-wrapper {
   padding: 180px 0 100px 0;
   background: url(image/jakarta.jpg);
