@@ -81,14 +81,7 @@ to {top: 50px;}
 }
 
 
-.btn {
-  padding: 12px 24px;
-  color: #fffff;
-  display: inline-block;
-  opacity: 0.8;
-  border-radius: 6px;
-  text-align: center;
-}
+
 
 .btn:hover {
   opacity: 1;
