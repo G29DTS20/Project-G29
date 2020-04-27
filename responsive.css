@@ -38,12 +38,12 @@
     
     /* Tambahkan CSS untuk header-right */
     .header-right{
-      display:none;
+      display:inline;
     }
     
     /* Tambahkan CSS untuk menu-icon */
     .menu-icon{
-      display:block;
+      display:inline;
     }
     
     .top-wrapper h1 {
